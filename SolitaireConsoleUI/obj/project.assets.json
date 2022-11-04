@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\SourceCode\\Repository\\Projects\\SolitaireApp\\SolitaireConsoleUI\\ConsoleUI.csproj",
+      "projectUniqueName": "G:\\SourceCode\\Repository\\Projects\\SolitaireApp\\SolitaireApp\\SolitaireConsoleUI\\ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "G:\\SourceCode\\Repository\\Projects\\SolitaireApp\\SolitaireConsoleUI\\ConsoleUI.csproj",
+      "projectPath": "G:\\SourceCode\\Repository\\Projects\\SolitaireApp\\SolitaireApp\\SolitaireConsoleUI\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\apnih\\.nuget\\packages\\",
-      "outputPath": "G:\\SourceCode\\Repository\\Projects\\SolitaireApp\\SolitaireConsoleUI\\obj\\",
+      "outputPath": "G:\\SourceCode\\Repository\\Projects\\SolitaireApp\\SolitaireApp\\SolitaireConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\apnih\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "G:\\SourceCode\\Repository\\Projects\\SolitaireApp\\SolitaireLibrary\\SolitaireLibrary.csproj": {
-              "projectPath": "G:\\SourceCode\\Repository\\Projects\\SolitaireApp\\SolitaireLibrary\\SolitaireLibrary.csproj"
+            "G:\\SourceCode\\Repository\\Projects\\SolitaireApp\\SolitaireApp\\SolitaireLibrary\\SolitaireLibrary.csproj": {
+              "projectPath": "G:\\SourceCode\\Repository\\Projects\\SolitaireApp\\SolitaireApp\\SolitaireLibrary\\SolitaireLibrary.csproj"
             }
           }
         }

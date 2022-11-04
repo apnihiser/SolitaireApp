@@ -10,3 +10,15 @@ G:\SourceCode\Repository\Projects\SolitaireApp\SolitaireLibrary\obj\Debug\net6.0
 G:\SourceCode\Repository\Projects\SolitaireApp\SolitaireLibrary\obj\Debug\net6.0\refint\SolitaireLibrary.dll
 G:\SourceCode\Repository\Projects\SolitaireApp\SolitaireLibrary\obj\Debug\net6.0\SolitaireLibrary.pdb
 G:\SourceCode\Repository\Projects\SolitaireApp\SolitaireLibrary\obj\Debug\net6.0\ref\SolitaireLibrary.dll
+G:\SourceCode\Repository\Projects\SolitaireApp\SolitaireApp\SolitaireLibrary\bin\Debug\net6.0\SolitaireLibrary.deps.json
+G:\SourceCode\Repository\Projects\SolitaireApp\SolitaireApp\SolitaireLibrary\bin\Debug\net6.0\SolitaireLibrary.dll
+G:\SourceCode\Repository\Projects\SolitaireApp\SolitaireApp\SolitaireLibrary\bin\Debug\net6.0\SolitaireLibrary.pdb
+G:\SourceCode\Repository\Projects\SolitaireApp\SolitaireApp\SolitaireLibrary\obj\Debug\net6.0\SolitaireLibrary.csproj.AssemblyReference.cache
+G:\SourceCode\Repository\Projects\SolitaireApp\SolitaireApp\SolitaireLibrary\obj\Debug\net6.0\SolitaireLibrary.GeneratedMSBuildEditorConfig.editorconfig
+G:\SourceCode\Repository\Projects\SolitaireApp\SolitaireApp\SolitaireLibrary\obj\Debug\net6.0\SolitaireLibrary.AssemblyInfoInputs.cache
+G:\SourceCode\Repository\Projects\SolitaireApp\SolitaireApp\SolitaireLibrary\obj\Debug\net6.0\SolitaireLibrary.AssemblyInfo.cs
+G:\SourceCode\Repository\Projects\SolitaireApp\SolitaireApp\SolitaireLibrary\obj\Debug\net6.0\SolitaireLibrary.csproj.CoreCompileInputs.cache
+G:\SourceCode\Repository\Projects\SolitaireApp\SolitaireApp\SolitaireLibrary\obj\Debug\net6.0\SolitaireLibrary.dll
+G:\SourceCode\Repository\Projects\SolitaireApp\SolitaireApp\SolitaireLibrary\obj\Debug\net6.0\refint\SolitaireLibrary.dll
+G:\SourceCode\Repository\Projects\SolitaireApp\SolitaireApp\SolitaireLibrary\obj\Debug\net6.0\SolitaireLibrary.pdb
+G:\SourceCode\Repository\Projects\SolitaireApp\SolitaireApp\SolitaireLibrary\obj\Debug\net6.0\ref\SolitaireLibrary.dll
