@@ -1,5 +1,6 @@
 SolitaireApp
 A fully functional Klondike Solitaire game that runs in the console, built in C# as a self-directed proof-of-knowledge project. No tutorials were followed for this implementation — the architecture, rendering approach, and game logic were all designed independently.
+
 Show Image
 ![Solitaire Screenshot](screenshot.png)
 
