@@ -1,8 +1,6 @@
 SolitaireApp
 A fully functional Klondike Solitaire game that runs in the console, built in C# as a self-directed proof-of-knowledge project. No tutorials were followed for this implementation — the architecture, rendering approach, and game logic were all designed independently.
-
 Show Image
-![Solitaire Screenshot](screenshot.png)
 
 About
 This project was built to consolidate everything learned during a formal C# training curriculum and prove that knowledge could be applied independently to a non-trivial problem. The result is a playable Solitaire game navigated entirely via keyboard, rendered in a terminal using a custom coordinate-based drawing system.
@@ -41,12 +39,15 @@ Assets/ — card and board visual assets stored as character grids
 How to Run
 Requirements
 
-.NET 6.0 SDK or later
+.NET 6.0 SDK or later (also compatible with .NET 10)
+
+
+⚠️ Important: This application must be run in a maximized Windows Terminal or Command Prompt window. Running inside the VS Code integrated terminal will cause a console buffer error due to the terminal size being too small.
 
 Steps
-bashgit clone https://github.com/apnihiser/SolitaireApp.git
-cd SolitaireApp
-dotnet run --project SolitaireConsoleUI
+Clone or download the repository, then open a maximized Command Prompt or Windows Terminal and navigate to the project:
+bashcd SolitaireConsoleUI
+dotnet run
 Controls
 KeyAction← →Move cursor left / right within a row↑ ↓Move cursor between top and bottom rowsEnterSelect pile / confirm move
 
@@ -61,5 +62,5 @@ Thinking through game state management without relying on external frameworks
 
 Built With
 
-C# / .NET 6
+C# / .NET 6 (compatible up to .NET 10)
 Console UI only — no external dependencies
